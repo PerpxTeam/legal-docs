@@ -1,6 +1,6 @@
 # Privacy Policy
 
-# Effective Date: 22/12/2025
+> Effective Date: 22/12/2025
 
 ## **1\. Introduction**
 
