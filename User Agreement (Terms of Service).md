@@ -1,6 +1,6 @@
 # **User Agreement (Terms of Service)**
 
-Version: 1.0         Last Updated: 21/12/2025
+> Version: 1.0         Last Updated: 21/12/2025
 
 ## **1\. Introduction and Acceptance**
 
