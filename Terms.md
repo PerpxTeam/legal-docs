@@ -1,3 +1,11 @@
+<style>
+  /* 隐藏侧边栏 */
+  header { display: none !important; }
+  /* 让内容居中并加宽 */
+  section { width: 100% !important; max-width: 800px !important; margin: 0 auto !important; padding: 20px 0 !important; }
+  .wrapper { width: 90% !important; max-width: 800px !important; margin: 0 auto !important; }
+</style>
+
 # **User Agreement (Terms of Service)**
 
 > Version: 1.0         Last Updated: 21/12/2025
