@@ -1,10 +1,24 @@
 <style>
   /* 隐藏侧边栏 */
   header { display: none !important; }
-  /* 让内容居中并加宽 */
-  section { width: 100% !important; max-width: 800px !important; margin: 0 auto !important; padding: 20px 0 !important; }
-  .wrapper { width: 90% !important; max-width: 800px !important; margin: 0 auto !important; }
+  
+  /* 隐藏底部的 "Maintained by..." 和 "Hosted on..." */
+  footer { display: none !important; }
+  
+  /* 让正文居中、加宽，阅读体验更好 */
+  section { 
+    width: 100% !important; 
+    max-width: 800px !important; 
+    margin: 0 auto !important; 
+    padding: 20px 0 !important; 
+  }
+  .wrapper { 
+    width: 90% !important; 
+    max-width: 800px !important; 
+    margin: 0 auto !important; 
+  }
 </style>
+
 
 # **User Agreement (Terms of Service)**
 
